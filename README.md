@@ -1,5 +1,6 @@
 # Diyor Nurutdinov — CV
 
-Стратегия и финансы / Head of Strategy · Strategy & Finance Lead. Одна страница, русский.
+Два резюме, оба одностраничные, русские:
 
-[Diyor_Nurutdinov_CV.pdf](./Diyor_Nurutdinov_CV.pdf)
+- [Стратегия и финансы — Dyor_Nurutdinov_CV.pdf](./Dyor_Nurutdinov_CV.pdf)
+- [Продакт / AI-продукты — Dyor_Nurutdinov_PM_CV.pdf](./Dyor_Nurutdinov_PM_CV.pdf)
